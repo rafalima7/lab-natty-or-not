@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# **Nome do Projeto: Livro Inspirador com IA Generativa**
 
-## 🚀 Introdução
+## 📒 **Descrição**
+O segundo é a criação de um e-book inspirador com a ajuda da inteligência artificial generativa para produzir texto e imagens. O e-book proporciona uma experiência interativa e interessante através das narrativas dinâmicas e dos desenhos altamente visuais. A IA foi utilizada para inventar narrativas criativas, desenvolver personagens carismáticos e ilustrar as histórias com imagens pertinentes para compor um trabalho muito visual e educacional.
 
-> Woooow! Look at this 👀
+## 🤖 **Tecnologias Utilizadas**
+- **GPT-4:** Gera texto, enredo e diálogo, além de construir personagens.
+- **DALL-E:** Para criar imagens e ilustrações que representam as situações e personagens do livro.
+- **Midjourney:** Usado para mudanças estilísticas ao descrever, prefixado com um toque artístico.
+- **Canva:** Para a aparência e o design finais do ebook, misturando texto e imagens de forma integrada.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🧐 **Processo de Criação**
+1. **Tema e Estrutura:** Começamos pelo tema do ebook e pela estrutura dos capítulos, juntamente com um esboço grosseiro do conteúdo de cada seção.
+2. **Geração de Conteúdo Textual:** Com o uso do GPT-4, textos em prosa para a história foram gerados capítulo por capítulo, isto é, descrições, diálogos e tramas. A saída da IA foi retrabalhada de acordo.
+3. **Construção de Imagens:** Imagens feitas por DALL-E e Midjourney ilustraram todos os capítulos, criadas de acordo com as descrições dos locais e personagens da trama. Todas as imagens passaram por uma edição para fazer com que o estilo visual fosse homogêneo.
+4. **Edição e Revisão:** Depois que a escrita e as imagens estavam todas juntas, o texto era movido para edição e revisão, onde as correções finais eram feitas para garantir que tudo estivesse no devido lugar.
+5. **Diagramação:** Foi diagramado usando Canva com uma bela disposição para a estrutura de imagens e palavras que fariam a leitura parecer agradável.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🚀 **Resultados**
+O projeto produziu um ebook muito bonito e interessante visualmente. O texto que a IA foi capaz de produzir conseguiu manter a imaginação do leitor, e as imagens criadas contribuíram idealmente para a atmosfera desejada. A reação inicial foi muito boa e apreciou como o texto complementava a imagem, além de admirar a inovação do processo de criação de uma história.
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 **Reflexão**
+Criar um ebook “natty” com IA foi um projeto desafiador, quase divertido, e muito revelador. A IA generativa foi, na verdade, boa em criar algo que complementa a forma e o conteúdo, embora tenha sido necessário muito trabalho crítico em andamento para criar algo que fosse coeso e altamente funcional. Foi uma experiência em que as fronteiras do trabalho criativo são ultrapassadas, e a mudança que a inteligência artificial pode trazer para a literatura e a fotografia pôde ser claramente refletida.
